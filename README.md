@@ -1,6 +1,6 @@
 # Técnicas de Desenvolvimento de Algoritmos
 
-Bem-vindo ao repositório da disciplina **Técnicas de Desenvolvimento de Algoritmos**! Este repositório contém conteúdos, exemplos, exercícios e projetos relacionados ao desenvolvimento de algoritmos, com foco na lógica computacional e na implementação em linguagens de programação.
+Bem-vindo ao repositório da disciplina **Técnicas de Desenvolvimento de Algoritmos**! Este repositório contém conteúdos, exemplos, exercícios e projetos relacionados ao desenvolvimento de algoritmos, com foco na lógica computacional e na implementação em linguagens de programação. 
 
 ## 📚 Objetivos da Disciplina
 
